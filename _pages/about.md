@@ -17,8 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here... Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+"If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along"
+"The simplest explanation for some phenomenon is more likely to be accurate than more complicated explanations."
+-Occam's razor
+This is my approach in life- "Keep it simple". Whenever I get a problem to solve, I always start with eliminating the most complicated solutions and work on the easiest approach. I am a Data Enthusiast, I break down complex data to it's simple solution. 
