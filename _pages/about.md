@@ -18,6 +18,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 "If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along"
-"The simplest explanation for some phenomenon is more likely to be accurate than more complicated explanations."
 -Occam's razor
-This is my approach in life- "Keep it simple". Whenever I get a problem to solve, I always start with eliminating the most complicated solutions and work on the easiest approach. I am a Data Enthusiast, I break down complex data to it's simple solution. 
+This is my approach in life- "Keep it simple". Whenever I get a problem to solve, I always start with eliminating the most complicated solutions and work on the easiest approach. I am a Data Enthusiast,I break down complex problem into their simple solutions. 
