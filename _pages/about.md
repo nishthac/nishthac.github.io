@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Science Enthusiat
+subtitle: Data Science Enthusiast
 
 profile:
   align: right
@@ -17,6 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-"If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along"
+"If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along"  
 -Occam's razor
+
 This is my approach in life- "Keep it simple". Whenever I get a problem to solve, I always start with eliminating the most complicated solutions and work on the easiest approach. I am a Data Enthusiast,I break down complex problem into their simple solutions. 
